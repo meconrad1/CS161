@@ -1,4 +1,1 @@
-# hello-world
-practice repo
-
-Editing the readme file.
+projects and files for PCC CS161 Intro to CS class
